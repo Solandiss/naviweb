@@ -1,0 +1,68 @@
+h1 {
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    color: #fa92d7;
+  
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(hapi.jpg);
+}
+
+header, nav, section, footer {
+    margin: 70px;
+}
+
+header {
+    background-color: #f0f0f0;
+    padding: 10px;
+    text-align: center;
+}
+
+nav {
+    background-color: #ec7cab;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 20px;
+    padding: 5px;
+    overflow: hidden;
+}
+
+nav li {
+    float: left;
+   
+}
+
+nav a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: #f791c0;
+    color: rgb(255, 0, 98);
+}
+
+section {
+    margin-top: 20px;
+}
+
+footer {
+    text-align: center;
+    background-color: #eb89b6;
+    color: white;
+    padding: 10px;
+}
+
+p{
+    p.dashed {border-style: dashed;}
+}
